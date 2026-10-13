@@ -8,12 +8,13 @@ DBA student with a strong interest in the infrastructure and security that datab
  
 - [Home Lab Project Summary (English, PDF)](docs/Homelab_project_summary_eng.pdf)
 - [Hemmalabb – projektsammanfattning (svenska, PDF)](docs/Hemmalabb_projektsammanfattning_sv.pdf)
+
 ## 🛠️ Projects
  
 | Project | What it is |
 |---|---|
-| [homelab-opnsense](https://github.com/johanVcode/homelab-opnsense) | Design of my OPNsense home firewall: deny-by-default rules, IDS/IPS policy, honest limitations and roadmap |
-| omar-little (Proxmox server) | My old gaming rig, rebuilt into a learning server: VM templates and VMs I can spin up and throw away in minutes, with Ansible next |
+| [homelab-network](https://github.com/johanVcode/homelab-network) | My home network: OPNsense firewall with deny-by-default rules and IDS/IPS policy, honest limitations, and the path to VLANs and 802.1X |
+| [homelab-server](https://github.com/johanVcode/homelab-server) | My old gaming rig, rebuilt into a learning server: GPU passthrough done properly, VM templates and VMs I can spin up and throw away in minutes, with Ansible next |
 | [dlorg_Johan_V](https://github.com/johanVcode/dlorg_Johan_V) | Bash script that sorts new downloads into folders, running as a systemd user service |
 | [database_theory](https://github.com/johanVcode/database_theory) | Data model for a library database |
  
@@ -22,6 +23,7 @@ DBA student with a strong interest in the infrastructure and security that datab
 - **Firewall:** OPNsense, deny-by-default rules, IDS/IPS policy, DNS-over-TLS
 - **Hypervisor:** Proxmox VE on ZFS, with minimal Debian 13 and Oracle Linux 10 templates, GPU passthrough and disposable VMs
 - **Next:** VLANs, 802.1X with FreeRADIUS, WireGuard, 5G WAN failover, Ansible
+
 ## 🌍 Languages
  
 Swedish (native) · English (native level) · Spanish (native level)
