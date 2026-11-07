@@ -36,5 +36,3 @@ the network, the operating system and the security around it.
 ## Next up
 
 Backup & restore with a 3-2-1 strategy · Active Directory · Monitoring with Grafana · OT security lab
-
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
